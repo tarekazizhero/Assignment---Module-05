@@ -1,0 +1,22 @@
+[
+    {
+        "username": "tarek",
+        "email": "1720114.tarekaziz@gmail.com",
+        "password": "$2y$10$biMPwks9RA99mgAHZsNnueuD9geTN3RfBI6ZQWIPikSrTRka5oJpW",
+        "role": "admin"
+    },
+
+    {
+        "username": "aziz",
+        "email": "cse.1720114.hstu@gmail.com",
+        "password": "$2y$10$biMPwks9RA99mgAHZsNnueuD9geTN3RfBI6ZQWIPikSrTRka5oJpW",
+        "role": "manager"
+    },
+
+    {
+        "username": "rafi",
+        "email": "rafi1@gmail.com",
+        "password": "$2y$10$biMPwks9RA99mgAHZsNnueuD9geTN3RfBI6ZQWIPikSrTRka5oJpW",
+        "role": "user"
+    }
+]
